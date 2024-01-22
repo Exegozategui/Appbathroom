@@ -1,0 +1,56 @@
+/* src/pages/Map/styles.css */
+
+.baños-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .baños-ubicacion {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .baños-ubicacion:hover {
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para cada sector */
+  .baños-ubicacion h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  
+  /* Estilos para los botones de baño dentro de cada sector */
+  .modal-bathroom {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 8px 0;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .modal-bathroom:hover {
+    background-color: #45a049;
+  }
+  
+  /* Puedes agregar más estilos según sea necesario */
+  

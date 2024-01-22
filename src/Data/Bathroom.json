@@ -1,0 +1,276 @@
+{
+    "baños": [
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Hall Publico",
+        "Tipo": "DA",
+        "Numero": "101"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Hall Publico",
+        "Tipo": "CA",
+        "Numero": "102"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Hall Publico",
+        "Tipo": "DI",
+        "Numero": "103"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Hall Publico",
+        "Tipo": "BB",
+        "Numero": "104"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "DA",
+        "Numero": "201"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "CA",
+        "Numero": "202"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "DI",
+        "Numero": "203"
+      },
+
+
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "BB",
+        "Numero": "204"
+      },
+
+
+
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "DA",
+        "Numero": "205"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "CA",
+        "Numero": "206"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "DI",
+        "Numero": "207"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Embarque",
+        "Tipo": "BB",
+        "Numero": "208"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Arribo",
+        "Tipo": "DA",
+        "Numero": "301"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Arribo",
+        "Tipo": "CA",
+        "Numero": "302"
+      },
+
+      {
+        "Ubicacion": "Cabotaje",
+        "Sector": "Arribo",
+        "Tipo": "DI",
+        "Numero": "303"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Hall Publico",
+        "Tipo": "DA",
+        "Numero": "401"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Hall Publico",
+        "Tipo": "CA",
+        "Numero": "402"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Hall Publico",
+        "Tipo": "DI",
+        "Numero": "403"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Hall Publico",
+        "Tipo": "BB",
+        "Numero": "404"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Embarque",
+        "Tipo": "DA",
+        "Numero": "501"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Embarque",
+        "Tipo": "CA",
+        "Numero": "502"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Embarque",
+        "Tipo": "DI",
+        "Numero": "503"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Embarque",
+        "Tipo": "BB",
+        "Numero": "504"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "DA",
+        "Numero": "601"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "CA",
+        "Numero": "602"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "DI",
+        "Numero": "603"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "BB",
+        "Numero": "604"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "DA",
+        "Numero": "605"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "CA",
+        "Numero": "606"
+      },
+
+      {
+        "Ubicacion": "Internacional",
+        "Sector": "Arribo",
+        "Tipo": "DI",
+        "Numero": "607"
+      },
+
+      {
+        "Ubicacion": "P.Alta",
+        "Sector": "Hall Publico",
+        "Tipo": "DA",
+        "Numero": "701"
+      },
+
+      {
+        "Ubicacion": "P.Alta",
+        "Sector": "Hall Publico",
+        "Tipo": "CA",
+        "Numero": "702"
+      },
+
+      {
+        "Ubicacion": "P.Alta",
+        "Sector": "Hall Publico",
+        "Tipo": "DI",
+        "Numero": "703"
+      },
+      {
+        "Ubicacion": "P.Alta",
+        "Sector": "Hall Publico",
+        "Tipo": "BB",
+        "Numero": "704"
+      },
+
+      {
+        "Ubicacion": "Psa",
+        "Sector": "Overside",
+        "Tipo": "DA",
+        "Numero": "801"
+      },
+
+      {
+        "Ubicacion": "Psa",
+        "Sector": "Overside",
+        "Tipo": "CA",
+        "Numero": "802"
+      },
+
+      {
+        "Ubicacion": "Aerolineas",
+        "Sector": "Overside",
+        "Tipo": "DA",
+        "Numero": "803"
+      },
+
+      {
+        "Ubicacion": "Aerolineas",
+        "Sector": "Overside",
+        "Tipo": "CA",
+        "Numero": "804"
+      }
+
+      
+    
+    ]
+  }

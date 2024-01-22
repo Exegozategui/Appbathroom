@@ -1,0 +1,9 @@
+.baños-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .baños-ubicacion {
+    margin: 16px;
+    text-align: center;
+  }
